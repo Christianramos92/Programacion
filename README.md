@@ -5,5 +5,5 @@ Programa en Python que implementa una función para verificar si una persona es 
 * **Estudiante:** Christian Paúl Ramos Rosario
 * **Universidad:** Universidad Estatal Amazónica
 * **Carrera:** Tecnología de la Información y Comunicacion
-* **Paralelo:**H
-* **Docente:**Edgar Fernando Nieto Zambrano
+* **Paralelo:** H
+* **Docente:** Edgar Fernando Nieto Zambrano
